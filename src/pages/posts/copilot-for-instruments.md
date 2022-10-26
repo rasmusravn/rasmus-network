@@ -12,3 +12,4 @@ heroImage: /posts/aiyujiwu-laptop-stand_thumbnail.jpg
 ---
 
 Instrument drivers are hard to write. They are often based on old standards, which honestly seldom were widely accepted enough to be called standards. 
+ 
