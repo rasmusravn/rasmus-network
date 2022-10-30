@@ -1,5 +1,5 @@
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
-export const SITE_TITLE = 'My exploration with Rasmus Ravn Andersen'
-export const SITE_DESCRIPTION = 'Engineer exploring the super powers of it'
+export const SITE_TITLE = 'TN Sparks'
+export const SITE_DESCRIPTION = 'Exploring tech that can bump up the fun factor in engineering, and nature-related subjects that inspire. Hoping for a unity between the two.'
 export const HOMEPAGE_URL = 'https://www.rasmus.netork/'
