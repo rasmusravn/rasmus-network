@@ -7,6 +7,7 @@ title: Climate Marches in Denmark
 createdAt: 1663134489800
 updatedAt: 1663635618067
 tags:
-  - Computing
-heroImage: /posts/folketsklimamarch.jpg
+  - Climate
+heroImage: /posts/folketsklimamarch_aargang.jpg
 ---
+On October the 30th 

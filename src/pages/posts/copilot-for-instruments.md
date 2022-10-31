@@ -8,7 +8,7 @@ createdAt: 1663134489800
 updatedAt: 1663635618067
 tags:
   - Computing
-heroImage: /posts/github-copilot.jpg
+heroImage: /posts/github-copilot_aargang.jpg
 ---
 
 Instrument drivers are hard to write. They are often based on old standards, which honestly seldom were widely accepted enough to be called standards. 
