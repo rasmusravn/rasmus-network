@@ -1,9 +1,9 @@
 ---
-description: Do you have a folder full of .s2p files that you want to analyze and simulate? Check out this quick tutorial on using the scikit-rf module to import and manipulate your data, making it easy to work with multiple networks at once.
+description: "Do you have a folder full of .s2p files that you want to analyze and simulate? Check out this quick tutorial on using the scikit-rf module to import and manipulate your data, making it easy to work with multiple networks at once."
 slug: scikit-rf
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Easily Analyze and Simulate Multiple Networks with scikit-rf
+title: "Easily Analyze and Simulate Multiple Networks with scikit-rf"
 createdAt: 1663134489800
 updatedAt: 1663635618067
 tags:
