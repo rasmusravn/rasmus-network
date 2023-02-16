@@ -17,25 +17,6 @@ export interface Props {
 }
 
 const {
-  content: { title, descri---
-import BaseHead from '../components/BaseHead.astro'
-import Header from '../components/Header.astro'
-import Footer from '../components/Footer.astro'
-import Body from '../components/Body.astro'
-import Content from '../components/Content.astro'
-
-export interface Props {
-  content: {
-    title?: string
-    description: string
-    createdAt?: string
-    updatedAt?: string
-    heroImage?: string
-    tags: string[]
-  }
-}
-
-const {
   content: { title, description, heroImage }
 } = Astro.props ?? { content: { title: '', description: '', heroImage: '' } }
 
