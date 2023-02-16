@@ -3,7 +3,7 @@ description: The Vector Network Analyzer, the pure RF-tool
 slug: instruments-for-rf
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Instruments for RF - VNA
+title: "Instruments for RF - VNA"
 createdAt: 1663134489800
 updatedAt: 1663635618067
 tags:
